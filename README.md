@@ -1,2 +1,2 @@
 # Exchange-Courses-HGU
-(#P2 Exchange-Courses App for students in HGU)
+(#P1 Exchange-Courses App for students in HGU)
